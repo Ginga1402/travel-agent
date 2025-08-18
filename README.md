@@ -3,5 +3,5 @@
 
 ### WIP
 
-# travel-agent using autogen
+# travel-agent using autogen oss
 
